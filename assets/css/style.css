@@ -28,6 +28,9 @@ a:visited{
     border-bottom: solid #777777;
     color: #4aaaa5;
 }
+button{
+    margin-bottom: 10px;
+}
 footer{
     clear: both;
     height: 35px;
