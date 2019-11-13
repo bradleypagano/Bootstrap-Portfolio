@@ -68,13 +68,10 @@ footer{
     height: 20px;
     text-align: center;
 }
-#crystal{
-    color: #ffffff;
-}
-#trivia{
-    color: #ffffff;
-}
-#loco{
+#crystal,
+#trivia,
+#loco,
+#liri{
     color: #ffffff;
 }
 .profilepic{
