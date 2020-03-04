@@ -1,6 +1,8 @@
 body {
   font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
   background-image: url("../images/beanstalk.png");
+  height: 100%;
+  margin: 0;
 }
 .container {
   background-color: #ffffff;
@@ -34,7 +36,7 @@ button {
 }
 footer {
   clear: both;
-  height: 35px;
+  height: 40px;
   margin-top: 15px;
   border-top: solid #4aaaa5 10px;
   background-color: black;
@@ -63,14 +65,14 @@ footer {
 .textbox {
   background-color: #4aaaa5;
   position: absolute;
-  bottom: 30px;
+  top: 150px;
   width: 200px;
   color: #ffffff;
   height: 20px;
   text-align: center;
 }
 #crystal,
-#trivia,
+#fermention,
 #loco,
 #liri,
 #finder,
@@ -87,4 +89,7 @@ footer {
 }
 .container {
   padding-bottom: 20px;
+}
+.tech {
+  font-weight: bold;
 }
